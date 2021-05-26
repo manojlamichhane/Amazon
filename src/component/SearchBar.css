@@ -1,0 +1,23 @@
+.searchbar {
+  display: flex;
+  height: 40px;
+  border-radius: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.searchbar-left {
+  background-color: #f7f2f2;
+  width: 50px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.searchbar-centre {
+  background-color: white;
+  width: 620px;
+}
+.searchbar-right {
+  background-color: #f9b93d;
+  width: 40px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: px;
+}

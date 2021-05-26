@@ -1,0 +1,27 @@
+.topbar {
+  background-color: #233448;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+}
+.logo {
+  width: 80px;
+  height: 50px;
+  /* margin-right: 20px; */
+}
+.tabcontainer {
+  display: flex;
+  height: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  align-items: center;
+}
+.tabcontainer:hover {
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  border-color: white;
+  border-width: 2px;
+  border-style: solid;
+}
