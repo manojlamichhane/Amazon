@@ -1,3 +1,7 @@
+### UI
+
+<img src= "src/screenshots/screenshot-amazon.png" width="250px">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
