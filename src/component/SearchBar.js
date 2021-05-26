@@ -25,7 +25,9 @@ function SearchBar(props) {
           onClick={handleClick}
         >
           <div style={{ display: "flex" }}>
-            <p style={{ margin: "0px", fontSize: "12px" }}>All</p>
+            <p style={{ margin: "0px", padding: "0px", fontSize: "12px" }}>
+              All
+            </p>
             <ArrowDropDownIcon />
           </div>
         </Button>
